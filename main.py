@@ -16,3 +16,4 @@ class Main(object):
 
 if __name__ == '__main__':
     Main.run_dijie()
+    print("小小的修改，带我提交git")
